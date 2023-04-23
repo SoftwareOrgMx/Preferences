@@ -15,7 +15,7 @@ import mx.org.software.prefs.Prefs;
 
 /**
  *
- * @author Andres
+ * @author SoftwareOrgMX
  */
 public class DefaultPreferences {
 
